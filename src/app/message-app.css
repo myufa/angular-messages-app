@@ -1,0 +1,12 @@
+table {
+  width: 100%;
+}
+.mat-header-cell {    text-align: center;    }
+.mat-sort-header { 
+  flex-direction: column;
+  justify-content: center;
+}
+.mat-cell {
+  padding-left: 20;
+  padding-right: 20;
+}
