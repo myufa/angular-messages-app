@@ -12,3 +12,8 @@ View the deployed app at https://myufa.github.io/angular-messages-app/
 - Filtered out data with no valid firstName or lastName in seeker service
 - Removed channel and status members of Message interface to match the data provided in the seeker api
 - Sorted messages in the fetching and processing stage to easily select the latest message in the table
+
+### `Improvements for Real-life Application`
+- API should handle pagination
+- Infinite Scroll view
+- Calendar view date selector
